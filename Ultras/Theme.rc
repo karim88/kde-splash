@@ -1,0 +1,9 @@
+[KSplash Theme: Ultras]
+Name = KDE 4.3 Splash Screen
+Description = Ultras Winners2005 Splash Screen Based on BlueCurls Splash Screen 1.0
+Version = 1.0
+Author = Karim Oulad Chalha  <herr-linux@hotmail.fr>
+Homepage = http://linuxpark.coctail.org/
+
+# Theme behaviour settings.
+Engine = KSplashX
